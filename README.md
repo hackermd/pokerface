@@ -40,3 +40,5 @@ DIP switch 4 to `ON`
 - `PN` -> `PN`
 
 DIP switch 4 to `OFF`
+
+![](img/layer3.png?raw=true)
