@@ -2,13 +2,11 @@
 
 Custom POK3R layer for Vim like navigation.
 
-Switch to layer 3: `FN` + `.`
 
-Left light under spacebar should turn red.
+Switch to layer 3: `FN` + `.` Left light under spacebar should turn red &#x1F534;.
 
-Enter program mode: `FN` + right `CTRL`
 
-Right light under spacebar should turn blue.
+Enter program mode: `FN` + right `CTRL` Right light under spacebar should turn blue &#x1F535;.
 
 ### HJKL as arrow keys
 
